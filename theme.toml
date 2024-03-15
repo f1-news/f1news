@@ -3,7 +3,7 @@
 
 name = "f1news"
 license = "MIT"
-licenselink = "https://github.com/adityatelange/paper/blob/master/LICENSE"
+licenselink = "https://github.com/ryuseiri/f1news/blob/master/LICENSE"
 description = "A fast, clean, responsive Hugo theme"
 homepage = "https://f1-news.github.io/f1news/"
 tags = [

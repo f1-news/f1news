@@ -4,7 +4,7 @@
 name = "f1news"
 license = "MIT"
 licenselink = "https://github.com/f1-news/f1news/blob/main/LICENSE"
-description = "A fast, clean, responsive Hugo theme"
+description = "This is a f1 news hugo theme."
 homepage = "https://f1-news.github.io/"
 tags = [
   "responsive",
@@ -37,10 +37,10 @@ features = [
   "scroll-to-top",
   "search"
 ]
-min_version = "0.97.1"
+min_version = "1.0.0"
 
 [author]
-  name = "Aditya Telange"
+  name = "RyuSeiri"
   homepage = "https://github.com/RyuSeiri/"
 
 # If porting an existing theme

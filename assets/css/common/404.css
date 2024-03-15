@@ -1,0 +1,17 @@
+.not-found-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+  font-size: 160px;
+  font-weight: 700;
+}
+
+.not-found-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+  font-size: 42px;
+  font-weight: 700;
+}
